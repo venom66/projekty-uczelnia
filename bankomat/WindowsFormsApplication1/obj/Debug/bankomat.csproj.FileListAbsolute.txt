@@ -1,0 +1,94 @@
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\bankomat.csprojResolveAssemblyReference.cache
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\bankomat.csproj.GenerateResource.Cache
+I:\bankomat\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\bankomat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\bankomat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\bankomat\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\bankomat\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\bankomat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\bankomat.csprojResolveAssemblyReference.cache
+I:\bankomat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+I:\bankomat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\bankomat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\bankomat.csproj.GenerateResource.Cache
+I:\bankomat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.logowanie.resources
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\obj\Debug\bankomat.csprojResolveAssemblyReference.cache
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.logowanie.resources
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\BartD\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\obj\Debug\bankomat.csproj.GenerateResource.Cache
+C:\Users\Bart\Desktop\zip\zip\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Bart\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Bart\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bart\Desktop\zip\zip\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Bart\Desktop\zip\zip\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bart\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\bankomat.csprojResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Bart\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.logowanie.resources
+C:\Users\Bart\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bart\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\bankomat.csproj.GenerateResource.Cache
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\bankomat.csprojResolveAssemblyReference.cache
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.logowanie.resources
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\bankomat.csproj.GenerateResource.Cache
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekran.resources
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.stankonta.resources
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.wyplacono.resources
+C:\Users\BartD\Desktop\zip\zip\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.wyplata1.resources
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\bankomat.csprojResolveAssemblyReference.cache
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekran.resources
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.logowanie.resources
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.stankonta.resources
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.wyplacono.resources
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.wyplata1.resources
+F:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\bankomat.csproj.GenerateResource.Cache
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\bankomat.csprojResolveAssemblyReference.cache
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekran.resources
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.logowanie.resources
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.stankonta.resources
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.wyplacono.resources
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.wyplata1.resources
+G:\bankomat\bankomat\zip\WindowsFormsApplication1\obj\Debug\bankomat.csproj.GenerateResource.Cache
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\obj\Debug\bankomat.csprojResolveAssemblyReference.cache
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekran.resources
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.logowanie.resources
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.stankonta.resources
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.wyplacono.resources
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.wyplata1.resources
+C:\Users\BartD\Desktop\wersja finalna 2015\zip\WindowsFormsApplication1\obj\Debug\bankomat.csproj.GenerateResource.Cache

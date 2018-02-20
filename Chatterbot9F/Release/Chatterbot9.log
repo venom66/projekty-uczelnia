@@ -1,0 +1,14 @@
+﻿  Chatterbot9.cpp
+Chatterbot9.cpp(596): warning C4018: '<': signed/unsigned mismatch
+Chatterbot9.cpp(612): warning C4018: '<': signed/unsigned mismatch
+Chatterbot9.cpp(636): warning C4018: '<': signed/unsigned mismatch
+Chatterbot9.cpp(643): warning C4018: '<': signed/unsigned mismatch
+c:\users\bart\desktop\chatterbot9\strings.h(25): warning C4018: '<': signed/unsigned mismatch
+  Chatterbot9.cpp(673): note: see reference to function template instantiation 'void shuffle<std::vector<int,std::allocator<_Ty>>>(T &,std::size_t)' being compiled
+          with
+          [
+              _Ty=int,
+              T=std::vector<int,std::allocator<int>>
+          ]
+  Chatterbot9.vcxproj -> C:\Users\Bart\Desktop\Chatterbot9\.\Release\Chatterbot9.exe
+  Chatterbot9.vcxproj -> .\Release\Chatterbot9.pdb (Full PDB)
